@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ACADEMIC ACHIEVEMENTS
+title: Academic Achievements
 permalink: /about/
 ---
 
