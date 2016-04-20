@@ -19,5 +19,6 @@ permalink: /about/
 
 ### Contact me
 
->+34644260224
->>[galis2214@gmail.com](mailto:galis2214@gmail.com)
++34644260224
+
+[galis2214@gmail.com](mailto:galis2214@gmail.com)
