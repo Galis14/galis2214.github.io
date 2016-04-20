@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: ACADEMIC ACHIEVEMENTS
 permalink: /about/
 ---
 
@@ -13,7 +13,7 @@ permalink: /about/
   * High knowledge in the programming languages bash, python
   * High knowledge in HTML, XML
 
-### More Information
+### Additional Information
 
 * Interested in obtaining complementary education.
 * Interested in the computer science area, responsible, hard-working and determined.
