@@ -15,11 +15,10 @@ permalink: /about/
 
 ### More Information
 
-* Interested in obtaining complementary education
-* Interested in the computer science area, responsible, hard-working and determined
+* Interested in obtaining complementary education.
+* Interested in the computer science area, responsible, hard-working and determined.
 
 ### Contact me
 
 * +34644260224
-
 * [galis2214@gmail.com](mailto:galis2214@gmail.com)
