@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Official studies
+· CFGS Administration of Operating Systems in Network (2014 - Studying)
+Computer skills
+· Medium knowledge in Windows
+· Medium knowledge in Linux administration
+· Medium knowledge in SQL
+· Medium knowledge in the programming languages bash, python
+· Basic knowledge in HTML, XML
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
++34644260224
+[galis2214@gmail.com](mailto:galis2214@gmail.com)
