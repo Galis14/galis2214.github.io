@@ -15,7 +15,8 @@ permalink: /about/
 
 ### More Information
 
-
+Interested in obtaining complementary education
+Interested in the computer science area, responsible, hard-working and determined
 
 ### Contact me
 
