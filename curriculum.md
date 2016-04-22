@@ -33,7 +33,7 @@ permalink: /curriculum/
 </ul>
 * Ricosport2000 S.L.
 * Sabadell, Barcelona 2014-2015
-  * Worked as a administrator part-time job. My duties were:
+* Worked as a administrator part-time job. My duties were:
    * Network administration
    * System administration
    * Budgeting
