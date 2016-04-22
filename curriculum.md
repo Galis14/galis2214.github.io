@@ -27,7 +27,7 @@ permalink: /curriculum/
     * adhering to health and safety standards
     * food preparation
  
-* Ricosport2000 S.L.
++ Ricosport2000 S.L.
 * Sabadell, Barcelona 2014-2015
    * Worked as a administrator part-time job. My duties were:
     * Network administration
