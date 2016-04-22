@@ -17,7 +17,7 @@ permalink: /curriculum/
 ### **PROFESSIONAL EXPERIENCE**
   * TLH Derwent Hotel
   * Torquay, England - September 2008-March 2009
-  *Worked as a still room assistant full-time job. My duties were:
+  * Worked as a still room assistant full-time job. My duties were:
       * maintaining the cleanliness of the still room
       * adhering to health and safety standards
       * food preparationRicosport2000 S.L.
