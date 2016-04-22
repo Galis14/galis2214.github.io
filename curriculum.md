@@ -7,12 +7,14 @@ permalink: /curriculum/
 ### **OFFICIAL STUDIES**
   * CFGS Administration of Operating Systems in Network (2014 - Studying)
 
+
 ### **COMPUTER SKILLS**
   * Medium knowledge in Windows
   * High knowledge in Linux administration
   * High knowledge in SQL
   * High knowledge in the programming languages bash, python
   * High knowledge in HTML, XML
+
 
 ### **PROFESSIONAL EXPERIENCE**
   * TLH Derwent Hotel
@@ -22,6 +24,7 @@ permalink: /curriculum/
       * adhering to health and safety standards
       * food preparationRicosport2000 S.L.
 
+
   * Sabadell, Barcelona 2014-2015
   * Worked as a administrator part-time job. My duties were:
       * Network administration
@@ -29,10 +32,12 @@ permalink: /curriculum/
       * Budgeting
       * Manage mail
 
+
 ### **Additional Information**
 
 * Interested in obtaining complementary education.
 * Interested in the computer science area, responsible, hard-working and determined.
+
 
 ### **Contact me**
 
