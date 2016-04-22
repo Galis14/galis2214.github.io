@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Academic Achievements
-permalink: /about/
+permalink: /curriculum/
 ---
 
 * Official studies
