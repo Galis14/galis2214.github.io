@@ -26,7 +26,7 @@ permalink: /curriculum/
     * maintaining the cleanliness of the still room
     * adhering to health and safety standards
     * food preparation
-    
+    > 
 * Ricosport2000 S.L.
 * Sabadell, Barcelona 2014-2015
    * Worked as a administrator part-time job. My duties were:
@@ -43,4 +43,4 @@ permalink: /curriculum/
 ### **CONTACT ME**
 
 * +34644260224
-* [galis2214@gmail.com](mailto:galis2214@gmail.com)
+* [david.rico.alc@gmail.com](mailto:david.rico.alc@gmail.com)
