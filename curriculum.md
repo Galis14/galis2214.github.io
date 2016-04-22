@@ -22,11 +22,11 @@ permalink: /curriculum/
   * Worked as a still room assistant full-time job. My duties were:
       * maintaining the cleanliness of the still room
       * adhering to health and safety standards
-      * food preparationRicosport2000 S.L.
- 
+      * food preparation
  
 
- * Sabadell, Barcelona 2014-2015
+  * Ricosport2000 S.L.
+  * Sabadell, Barcelona 2014-2015
   * Worked as a administrator part-time job. My duties were:
       * Network administration
       * System administration
