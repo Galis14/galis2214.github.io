@@ -29,7 +29,7 @@ permalink: /curriculum/
       * adhering to health and safety standards
       * food preparation
 
- ***
+ 
 
   * Ricosport2000 S.L.
   * Sabadell, Barcelona 2014-2015
