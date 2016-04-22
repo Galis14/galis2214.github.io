@@ -4,6 +4,17 @@ title: MY CURRICULUM
 permalink: /curriculum/
 ---
 
+### **PERSONAL INFORMATION**
+* Surname: Rico Alcantara
+* First name: David
+* Place of birth: Barcelona
+* Date of birth: 18 th November 1987
+* Nationality: Spanish
+* DNI: 41008364P
+* Address: C/ Gran Via Corts Catalanes, 8o 4a, 08020
+* Mobile phone: +34644260224
+* E-mail: david.rico.alc@gmail.com
+
 ### **OFFICIAL STUDIES**
 * CFGS Administration of Operating Systems in Network (2014 - Studying)
 
