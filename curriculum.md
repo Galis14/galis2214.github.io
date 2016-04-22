@@ -20,14 +20,17 @@ permalink: /curriculum/
 * Medium knowledge in HTML4, HTML5, Markdown. 
 
 ### **PROFESSIONAL EXPERIENCE**
- 
-* TLH Derwent Hotel
-* Torquay, England - September 2008-March 2009
-  * Worked as a still room assistant full-time job. My duties were:
-   * maintaining the cleanliness of the still room
-   * adhering to health and safety standards
-   * food preparation
- 
+<ul> 
+ <li>TLH Derwent Hotel</li>
+ <li>Torquay, England - September 2008-March 2009</li>
+ <li>Worked as a still room assistant full-time job. My duties were:
+   <ul>
+     <li>maintaining the cleanliness of the still room</li>
+     <li>adhering to health and safety standards</li>
+     <li>food preparation</li>
+   </ul>
+ </li>
+</ul>
 * Ricosport2000 S.L.
 * Sabadell, Barcelona 2014-2015
   * Worked as a administrator part-time job. My duties were:
