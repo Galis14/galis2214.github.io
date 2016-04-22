@@ -13,7 +13,7 @@ permalink: /curriculum/
 * DNI: 41008364P
 * Address: C/ Gran Via Corts Catalanes, 8o 4a, 08020
 * Mobile phone: +34644260224
-* E-mail: david.rico.alc@gmail.com
+* E-mail: [david.rico.alc@gmail.com](mailto:david.rico.alc@gmail.com)
 
 ### **OFFICIAL STUDIES**
 * CFGS Administration of Operating Systems in Network (2014 - Studying)
@@ -54,8 +54,3 @@ permalink: /curriculum/
 
 * Interested in obtaining complementary education.
 * Interested in the computer science area, responsible, hard-working and determined.
-
-### **CONTACT ME**
-
-* +34644260224
-* [david.rico.alc@gmail.com](mailto:david.rico.alc@gmail.com)
