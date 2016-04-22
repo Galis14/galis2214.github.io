@@ -7,7 +7,6 @@ permalink: /curriculum/
 ### **OFFICIAL STUDIES**
   * CFGS Administration of Operating Systems in Network (2014 - Studying)
 
-
 ### **COMPUTER SKILLS**
   * Medium knowledge in Windows.
   * High knowledge in Linux administration:
@@ -20,7 +19,6 @@ permalink: /curriculum/
      * Good foundation in Bash Script. Able to perform basic and complex algorithms.
   * Medium knowledge in HTML4, HTML5, Markdown. 
 
-
 ### **PROFESSIONAL EXPERIENCE**
   * TLH Derwent Hotel
   * Torquay, England - September 2008-March 2009
@@ -28,8 +26,6 @@ permalink: /curriculum/
       * maintaining the cleanliness of the still room
       * adhering to health and safety standards
       * food preparation
-
- 
 
   * Ricosport2000 S.L.
   * Sabadell, Barcelona 2014-2015
@@ -39,12 +35,10 @@ permalink: /curriculum/
       * Budgeting
       * Manage mail
 
-
 ### **ADDITIONAL INFORMATION**
 
 * Interested in obtaining complementary education.
 * Interested in the computer science area, responsible, hard-working and determined.
-
 
 ### **CONTACT ME**
 
