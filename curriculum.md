@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Academic Achievements
+title: MY CURRICULUM
 permalink: /curriculum/
 ---
 
@@ -23,9 +23,10 @@ permalink: /curriculum/
       * maintaining the cleanliness of the still room
       * adhering to health and safety standards
       * food preparationRicosport2000 S.L.
+ 
+ 
 
-
-  * Sabadell, Barcelona 2014-2015
+ * Sabadell, Barcelona 2014-2015
   * Worked as a administrator part-time job. My duties were:
       * Network administration
       * System administration
@@ -33,13 +34,13 @@ permalink: /curriculum/
       * Manage mail
 
 
-### **Additional Information**
+### **ADDITIONAL INFORMATION**
 
 * Interested in obtaining complementary education.
 * Interested in the computer science area, responsible, hard-working and determined.
 
 
-### **Contact me**
+### **CONTACT ME**
 
 * +34644260224
 * [galis2214@gmail.com](mailto:galis2214@gmail.com)
