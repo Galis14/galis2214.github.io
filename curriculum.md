@@ -21,7 +21,7 @@ permalink: /curriculum/
 ### **COMPUTER SKILLS**
 * Medium knowledge in Windows.
 * High knowledge in Linux administration:
-  * LDAP, PAM, SSH, CUPS, SAMBA, processes, DOCKER. 
+  * LDAP, PAM, SSH, CUPS, SAMBA, PROCESSES, DOCKER. 
 * SQL: Medium
   * DDL, DML and DCL. Also definition functions and design of simple DB. 
 * Python: Medium
