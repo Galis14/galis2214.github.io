@@ -28,7 +28,7 @@ permalink: /curriculum/
   * Good foundation in python programming. Able to perform basic and complex algorithms, functions, etc...
 * Bash Script: Medium
   * Good foundation in Bash Script. Able to perform basic and complex algorithms.
-* Medium knowledge in HTML4, HTML5, Markdown. 
+* Medium knowledge in HTML, XML. 
 
 ### **PROFESSIONAL EXPERIENCE**
 <ul> 
