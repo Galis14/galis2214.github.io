@@ -55,3 +55,4 @@ permalink: /curriculum/
 * Aptitudes: Team work, leadership, and trainer.
 * Interested in obtaining complementary education.
 * Interested in the computer science area, responsible, hard-working and determined.
+* Driving license B and own vehicle
